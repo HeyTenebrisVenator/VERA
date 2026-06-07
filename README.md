@@ -1,6 +1,7 @@
 # VERA
 
 **Vulnerability Evidence Reasoning Architecture**
+
 <img width="400" alt="vera" src="https://github.com/user-attachments/assets/7205006a-ee25-437c-8025-50ffc2cf9314" />
 
 VERA is a research project focused on reducing false positives in automated vulnerability detection through evidence correlation, machine learning, and continuous learning techniques.
